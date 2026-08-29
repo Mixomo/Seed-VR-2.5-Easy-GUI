@@ -1,0 +1,11 @@
+.venv/
+runtime/uv/uv.exe
+temp/
+models/
+outputs/
+backend/
+__pycache__/
+*.py[cod]
+*.log
+*.part
+*.zip

@@ -1,0 +1,13 @@
+{
+  "project": "PixelForge Image Upscaler",
+  "scope": "Image-only",
+  "on_demand_downloads": true,
+  "hf_xet": true,
+  "excluded": [
+    "RIFE",
+    "FlashVSR",
+    "SparkVSR",
+    "LTX 2.5",
+    "all video-only models"
+  ]
+}
